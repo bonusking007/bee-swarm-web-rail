@@ -1,0 +1,7 @@
+{
+  "online_threshold_secs": 60,
+  "sse_tick_ms": 500,
+  "maps": ["Bee Swarm Simulator"],
+  "allow_profile_creation": true,
+  "maintenance_mode": false
+}
